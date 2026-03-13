@@ -17,10 +17,9 @@ With a background spanning **data analytics, cloud engineering, and finance**, I
 
 ## 📫 Contact Information
 
-- **Email:** yourmail@example.com  
-- **LinkedIn:** [Your LinkedIn Name](https://linkedin.com/in/your-link)  
-- **GitHub:** [yourgithubusername](https://github.com/yourgithubusername)  
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
+- **Email:** sravan.boinapally23@gmail.com  
+- **LinkedIn:** [Sravan Boinapally](https://github.com/sravanb23)  
+- **GitHub:** [sravanb23](https://github.com/sravanb23)  
 
 ---
 
@@ -37,13 +36,6 @@ With a background spanning **data analytics, cloud engineering, and finance**, I
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced Data Engineering concepts  
-- MLOps and model deployment  
-- Distributed systems and cloud optimization  
-
----
 
 ## 🤝 Let's Connect
 
