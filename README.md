@@ -23,16 +23,16 @@ With a background spanning **data analytics, cloud engineering, and finance**, I
 
 ---
 
+
 ## 🛠 Technical Skills
 
-- **Programming Languages:** Python, R, Java, SQL, NoSQL  
-- **Cloud Platforms:** AWS, GCP, Azure  
-- **Big Data Technologies:** Apache Spark, Hadoop, PySpark, Kafka  
-- **Databases:** MySQL, PostgreSQL, Snowflake, MongoDB, DynamoDB  
-- **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, MLflow, Keras  
-- **DevOps & CI/CD:** Docker, Kubernetes, Jenkins, Terraform, Airflow  
-- **Visualization Tools:** Power BI, Tableau, AWS QuickSight, Looker  
-- **Other:** Git, Jira, MS Office, Excel  
+- **Languages:** Python, R, Java, Advanced SQL, NoSQL
+- **Databases & Warehousing:** Oracle, MySQL, BigQuery, Redshift, Databricks
+- **Cloud & Data Platforms:** AWS, GCP, Azure
+- **AWS Services:** S3, EMR, Glue, QuickSight, Redshift, Athena, Lambda, IAM, SageMaker
+- **BI & Visualization:** Power BI, Tableau, Looker, QuickSight
+- **Tools:** Git, Jira, Advanced Microsoft Excel
+- **Analytics:** KPI Reporting, Dashboarding, Data Modeling, ETL Development, Hypothesis Testing
 
 ---
 
